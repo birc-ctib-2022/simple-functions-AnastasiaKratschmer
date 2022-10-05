@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8770010&assignment_repo_type=AssignmentRepo)
 # Simple functions
 
-**Exercise:** Write a function that takes three numbers as arguments and return their product.
+**Exercise:** Write a function that takes three numbers as arguments and return their product. DONE MEN IKKE LAVET TEST
 
 **Exercise:** Change the function so it only takes one argument, get another from the global scope, and assigns to a local variable for the last value.
 
